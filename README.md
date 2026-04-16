@@ -6,8 +6,7 @@
 
 ## Demo
 
-[Screenshots and Demos/121Demo.gif
-](https://github.com/Bikram-D/CISC121-Final-Project/blob/c0946cc78932d35ff6f7aa1305c70ebf626e1853/Screenshots%20and%20Demos/121Demo.gif)
+![Demo](Screenshots and Demos/121Demo.gif)
 
 ## Problem Breakdown & Computational Thinking
 
