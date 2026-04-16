@@ -6,7 +6,8 @@
 
 ## Demo
 
-Screenshots and Demos/121Demo.gif
+[Screenshots and Demos/121Demo.gif
+](https://github.com/Bikram-D/CISC121-Final-Project/blob/c0946cc78932d35ff6f7aa1305c70ebf626e1853/Screenshots%20and%20Demos/121Demo.gif)
 
 ## Problem Breakdown & Computational Thinking
 
@@ -86,7 +87,8 @@ Screenshots and Demos/121Demo.gif
 
 ## Flowchart
 
-Screenshots and Demos/121ProjectFlowchart.png
+[Screenshots and Demos/121ProjectFlowchart.png
+](https://github.com/Bikram-D/CISC121-Final-Project/blob/c0946cc78932d35ff6f7aa1305c70ebf626e1853/Screenshots%20and%20Demos/121ProjectFlowchart.png)
 
 ## Steps to Run (local)
 
@@ -112,16 +114,20 @@ https://huggingface.co/spaces/BikD17/CISC121-FinalProject
 
 Testing Case 1: Normal unsorted list
 
-Screenshots and Demos/TestCase1.png
+[Screenshots and Demos/TestCase1.png
+](https://github.com/Bikram-D/CISC121-Final-Project/blob/c0946cc78932d35ff6f7aa1305c70ebf626e1853/Screenshots%20and%20Demos/TestCase1.png)
 
 Testing Case 2: Empty list
 
-Screenshots and Demos/TestCase2.png
+[Screenshots and Demos/TestCase2.png
+](https://github.com/Bikram-D/CISC121-Final-Project/blob/c0946cc78932d35ff6f7aa1305c70ebf626e1853/Screenshots%20and%20Demos/TestCase2.png)
 
 Testing Case 3: Negative or invalid crowd_count 
 
-Screenshots and Demos/TestCase3.1/png
-Screenshots and Demos/TestCase3.2,png
+[Screenshots and Demos/TestCase3.1/png
+](https://github.com/Bikram-D/CISC121-Final-Project/blob/c0946cc78932d35ff6f7aa1305c70ebf626e1853/Screenshots%20and%20Demos/TestCase3.1.png)
+[Screenshots and Demos/TestCase3.2,png
+](https://github.com/Bikram-D/CISC121-Final-Project/blob/c0946cc78932d35ff6f7aa1305c70ebf626e1853/Screenshots%20and%20Demos/TestCase3.2.png)
 
 ## Author & Acknowledgement
 
