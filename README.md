@@ -110,6 +110,12 @@ https://huggingface.co/spaces/BikD17/CISC121-FinalProject
 
 ## Testing
 
+| Test Case | Input                                                                            | Expected Result                                                                      | Actual Result                      |
+| --------- | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ---------------------------------- |
+| 1         | Normal unsorted list of multiple shuttle stops and valid crowd counts            | Sorted from highest to lowest crowd count.                                           | Passed                             |
+| 2         | Empty list                                                                       | User told no valid input entered.                                                    | Passed                             |
+| 3         | List of multiple shuttle stops with one having a negative or invalid crowd count | User told the input is invalid, and to enter a non-negative integer for crowd count. | Passed |
+
 Testing Case 1: Normal unsorted list
 
 ![TestCase1](Screenshots_Demo/TestCase1.png)
